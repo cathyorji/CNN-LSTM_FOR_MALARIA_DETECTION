@@ -1,4 +1,4 @@
-# CNN-LSTM_FOR_MALARIA_DETECTION
+
  # PERFORMANCE ANALYSIS OF CONVOLUTIONAL NEURAL NETWORK AND LONG-SHORT MEMORY NETWORKS ON MALARIA DISEASE
 
 Malaria, an infectious disease that has claimed the lives of many worldwide, is transmitted by the female mosquito Anopheles. Early detection of malaria parasites in the cell lowers the risk of death and improves the patient's chances of receiving prompt treatment. The study aimed to compare the accuracies of deep neural networks. This study used deep learning approaches such as CNN (convolutional neural networks) and LSTM (Long Short Term Memory networks) to detect malaria parasites, using performance metrics. A total of 27,578 images were used for this research. The images were resized, classified, preprocessed, and normalized.
